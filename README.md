@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anyadan
-- 👀 I’m interested in Tech, Crypto and Forex Trading. 
-- 🌱 I’m currently learning Crypto and a couple of coding languages. 
+- 👀 I’m interested in Tech, Crypto, Solidity and Forex Trading. 
+- 🌱 I’m currently learning Solidity and a couple of other coding languages. 
 - 💞️ I’m looking to collaborate on any projects, willing to be a part of something great. 
 - 📫 How to reach me @DanielAnya7 on twitter. 
 
